@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/softbalançap1completo/lib/kotlin-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
